@@ -1,6 +1,6 @@
-# Network-Desktop-Manager 🛠️
+# Desktop-Collaboration-Tool 🛠️
 
-This project is about a <b>"Network Desktop Manager", a Java application 💻 that enables connected computers within a local area network (LAN) to communicate and collaborate more effectively. By utilizing socket programming, the Manager facilitates direct communication between devices, allowing for features 📋 like:<br>
+This project is about a <b>"Desktop-Collaboration-Tool", a Java application 💻 that enables connected computers within a local area network (LAN) to communicate and collaborate more effectively. By utilizing socket programming, the Manager facilitates direct communication between devices, allowing for features 📋 like:<br>
     🎯	Remote Desktop Sharing: View and control another computer's screen for troubleshooting or assistance.<br>
     🎯	File Sharing: Easily transfer files between devices on the network.<br>
     🎯 Centralized Management: Network administrators can monitor 💻 and manage client desktop configurations, ensuring system updates and security. <br>
